@@ -1,4 +1,4 @@
-public class Exercise1b {
+//public class Exercise1b {
     public static void main(String[] args) {
         int x = 5;
         while (x > 1){
@@ -9,5 +9,6 @@ public class Exercise1b {
         }
     }
     
-}
-//O código compila corretamente
+//}
+//O código não compila pois não foi declarada a classe do arquivo
+//Para corrigir é necessário adicionar public class Exercise1b{}
