@@ -1,4 +1,4 @@
-//public class Exercise1b {
+Exercise2blass Exercise2b {
     public static void main(String[] args) {
         int x = 5;
         while (x > 1){

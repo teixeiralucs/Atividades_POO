@@ -1,4 +1,4 @@
-public class Exercise1c{
+public class Exercise2c{
     //public static void main(String[] args){
         int x = 5;
         while (x > 1){

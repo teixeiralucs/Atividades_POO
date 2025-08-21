@@ -1,4 +1,4 @@
-public class Exercise1a {
+public class Exercise2a {
     //Código da atividade
     public static void main(String[] args) {
         int x = 1;
