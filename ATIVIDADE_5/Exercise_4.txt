@@ -1,0 +1,3 @@
+O sistema não interpreta que o número já foi escolhido e deixa ele disponível para o usuário tentar novamente,
+nesse caso como estamos trabalhando com arrays uma solução simples é retirar aquele número do array, impossibilitando
+o usuário de esoclher ele.
