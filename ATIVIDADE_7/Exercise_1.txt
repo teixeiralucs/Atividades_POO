@@ -1,0 +1,15 @@
+1. How many instance variables does Surgeon have?
+R: 1 instancia, worksAtHospital
+2. How many instance variables does FamilyDoctor have?
+R: 2 instancias, worksAtHospital e makesHouseCalls
+3. How many methods does Doctor have?
+R: 1 metodo, treatPatient()
+4. How many methods does Surgeon have?
+R; 2 metodos, treatPatient() e makeIncision()
+5. How many methods does FamilyDoctor have?
+R: 2 metodos, treatPatient() e giveAdvice()
+6. Can a FamilyDoctor do treatPatient()?
+R: Sim, o FamilyDoctor pode executar o treatPatient()
+7. Can a FamilyDoctor do makeIncision()?
+R: Não, essa ação só pode ser executada por Surgeon
+
