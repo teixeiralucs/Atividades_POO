@@ -1,0 +1,14 @@
+Concrete                            Sample Class        Abstract
+gold course simulation              Tree                Tree Nursery Application
+real estate listing map             House               architect application
+satellite photo application         Town                city-building game simulation
+basic team roster                   Football Player     coaching application
+office inventory system             Chair               furniture store catalog
+simple mailing list                 Customer            CRM application
+small retail POS system             Sales Order         e-commerce platform
+personal library tracker            Book                digital library application
+store locator map                   Store               franchise management software
+basic supplier contact list         Supplier            supply chain management system
+driving range rental inventory      Golf Club           realistic golf game simulator
+auto parts inventory                Carburetor          engine simulation application
+home appliance inventory            Oven                smart home control application
